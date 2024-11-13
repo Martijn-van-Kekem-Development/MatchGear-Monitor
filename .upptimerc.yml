@@ -2,6 +2,10 @@
 owner: Martijn-van-Kekem-Development # Your GitHub organization or username, where this repository lives
 repo: MatchGear-Monitor # The name of this repository
 
+workflowSchedule:
+  responseTime: "0 * * * *"
+  graphs: "5 * * * *"
+
 sites:
   - name: Production API
     url: https://api-prod.matchgear.app/app-info
