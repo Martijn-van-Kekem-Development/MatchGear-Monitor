@@ -3,12 +3,24 @@ owner: Martijn-van-Kekem-Development # Your GitHub organization or username, whe
 repo: MatchGear-Monitor # The name of this repository
 
 sites:
-  - name: API
+  - name: Production API
     url: https://api-prod.matchgear.app/app-info
     method: GET
     maxResponseTime: 2000
     expectedStatusCodes:
       - 200
+  - name: Beta API
+    url: https://api-beta.matchgear.app/app-info
+    method: GET
+    maxResponseTime: 2000
+    expectedStatusCodes:
+      - 200
+  - name: Website
+    url: https://www.matchgear.app/en/
+    maxResponseTime: 5000
+  - name: Documentation website
+    url: https://docs.matchgear.app/en/
+    maxResponseTime: 5000
 
 assignees:
   - martijnvankekem
@@ -20,7 +32,7 @@ status-website:
     - rel: stylesheet
       href: https://status.matchgear.app/custom-style.css
   name: MatchGear
-  introTitle: "**MatchGear** status monitor."
+  introTitle: "**MatchGear** status"
   navbar:
     - title: Status
       href: /
