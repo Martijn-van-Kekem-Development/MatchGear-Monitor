@@ -31,8 +31,8 @@ status-website:
   links:
     - rel: stylesheet
       href: https://status.matchgear.app/custom-style.css
-  name: MatchGear
-  introTitle: "**MatchGear** status"
+  name: MatchGear Status
+  introTitle: "**MatchGear**"
   navbar:
     - title: Status
       href: /

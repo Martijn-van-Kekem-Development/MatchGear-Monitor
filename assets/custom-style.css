@@ -1,6 +1,6 @@
 :root {
     --body-background-color: #1b1b1f;
-    --body-text-color: #f0ffff;
+    --body-text-color: #fff;
     --card-background-color: rgb(182 210 255 / 9%);
     --nav-background-color: #1b1b1f;
     --nav-border-bottom-color: rgb(0 0 0 / 30%);
@@ -8,6 +8,9 @@
     --card-border-color: transparent;
     --color-primary: #4c90ff;
     --tag-color: #fff;
+    --tag-up-background-color: #086d38;
+    --tag-down-background-color: #b12828;
+    --tag-degraded-background-color: #8f6b00;
 }
 
 .logo {
@@ -20,7 +23,7 @@ article.down-active {
 
 .tag {
     padding: 0.53rem 0.5rem;
-    font-size: 1.1rem;
+    font-size: 1rem;
 }
 
 span.subtext {
