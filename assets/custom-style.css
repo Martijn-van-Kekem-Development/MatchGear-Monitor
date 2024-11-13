@@ -50,3 +50,17 @@ nav ul li a {
     padding: 0.2rem 0 !important;
     font-weight: normal;
 }
+
+@media screen and (max-width: 610px) {
+    nav ul {
+        display: none;
+    }
+
+    nav > div {
+        justify-content: center;
+    }
+
+    nav div .logo {
+        margin-right: 0;
+    }
+}
