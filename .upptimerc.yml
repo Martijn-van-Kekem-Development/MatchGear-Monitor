@@ -28,6 +28,7 @@ assignees:
 status-website:
   cname: status.matchgear.app
   logoUrl: https://status.matchgear.app/logo.png
+  favicon: https://status.matchgear.app/logo.png
   links:
     - rel: stylesheet
       href: https://status.matchgear.app/custom-style.css
