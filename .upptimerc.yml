@@ -16,7 +16,9 @@ assignees:
 status-website:
   cname: status.matchgear.app
   logoUrl: https://status.matchgear.app/logo.png
-  themeUrl: https://status.matchgear.app/custom-style.css
+  links:
+    - rel: stylesheet
+      href: https://status.matchgear.app/custom-style.css
   name: MatchGear
   introTitle: "**MatchGear** status monitor."
   navbar:
