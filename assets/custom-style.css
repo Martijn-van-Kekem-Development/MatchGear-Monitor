@@ -53,14 +53,14 @@ nav ul li a {
 
 @media screen and (max-width: 610px) {
     nav ul {
-        display: none;
+        display: none !important;
     }
 
     nav > div {
-        justify-content: center;
+        justify-content: center !important;
     }
 
     nav div .logo {
-        margin-right: 0;
+        margin-right: 0 !important;
     }
 }
