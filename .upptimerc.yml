@@ -43,3 +43,6 @@ status-website:
 
 i18n:
   footer: Copyright &copy; - Martijn van Kekem Development
+  up: Online
+  down: Offline
+  incidentCommentSummary: <span class="subtext">Posted at $DATE by $AUTHOR</span>

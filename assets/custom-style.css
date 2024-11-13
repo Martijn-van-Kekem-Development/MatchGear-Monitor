@@ -6,8 +6,29 @@
     --nav-border-bottom-color: rgb(0 0 0 / 30%);
     --nav-current-border-bottom-color: #4c90ff;
     --card-border-color: transparent;
+    --color-primary: #4c90ff;
+    --tag-color: #fff;
 }
 
 .logo {
     font-size: 1.3rem;
 }
+
+article.down-active {
+    border-color: transparent;
+}
+
+.tag {
+    padding: 0.53rem 0.5rem;
+    font-size: 1.1rem;
+}
+
+span.subtext {
+    font-size: 0.8em;
+}
+
+a {
+    text-decoration: none;
+}
+
+section
