@@ -19,7 +19,6 @@ status-website:
   themeUrl: /custom.css
   name: MatchGear
   introTitle: "**MatchGear** status monitor."
-  introMessage: This page shows the latest status of the MatchGear services.
   navbar:
     - title: Status
       href: /
