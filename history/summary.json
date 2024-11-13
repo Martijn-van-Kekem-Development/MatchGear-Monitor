@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 571,
-    "timeDay": 571,
-    "timeWeek": 571,
-    "timeMonth": 571,
-    "timeYear": 571,
+    "time": 505,
+    "timeDay": 505,
+    "timeWeek": 505,
+    "timeMonth": 505,
+    "timeYear": 505,
     "dailyMinutesDown": {}
   },
   {
@@ -22,19 +22,19 @@
     "url": "https://api-beta.matchgear.app/app-info",
     "icon": "https://icons.duckduckgo.com/ip3/api-beta.matchgear.app.ico",
     "slug": "beta-api",
-    "status": "down",
-    "uptime": "96.27%",
-    "uptimeDay": "96.27%",
-    "uptimeWeek": "96.27%",
-    "uptimeMonth": "96.27%",
-    "uptimeYear": "96.27%",
-    "time": 538,
-    "timeDay": 538,
-    "timeWeek": 538,
-    "timeMonth": 538,
-    "timeYear": 538,
+    "status": "up",
+    "uptime": "11.61%",
+    "uptimeDay": "11.61%",
+    "uptimeWeek": "11.61%",
+    "uptimeMonth": "11.61%",
+    "uptimeYear": "11.61%",
+    "time": 532,
+    "timeDay": 532,
+    "timeWeek": 532,
+    "timeMonth": 532,
+    "timeYear": 532,
     "dailyMinutesDown": {
-      "2024-11-13": 0
+      "2024-11-13": 20
     }
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 801,
-    "timeDay": 801,
-    "timeWeek": 801,
-    "timeMonth": 801,
-    "timeYear": 801,
+    "time": 748,
+    "timeDay": 748,
+    "timeWeek": 748,
+    "timeMonth": 748,
+    "timeYear": 748,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 440,
-    "timeDay": 440,
-    "timeWeek": 440,
-    "timeMonth": 440,
-    "timeYear": 440,
+    "time": 304,
+    "timeDay": 304,
+    "timeWeek": 304,
+    "timeMonth": 304,
+    "timeYear": 304,
     "dailyMinutesDown": {}
   }
 ]
