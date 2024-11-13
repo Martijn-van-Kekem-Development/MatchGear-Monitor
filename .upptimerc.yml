@@ -15,7 +15,8 @@ assignees:
 
 status-website:
   cname: status.matchgear.app
-  logoUrl: https://docs.matchgear.app/images/logo.png
+  logoUrl: /logo.png
+  themeUrl: /custom.css
   name: MatchGear
   introTitle: "**MatchGear** status monitor."
   introMessage: This page shows the latest status of the MatchGear services.
@@ -28,4 +29,4 @@ status-website:
       href: https://docs.matchgear.app
 
 i18n:
-  footer: Copyright &copy; - $REPO
+  footer: Copyright &copy; - Martijn van Kekem Development

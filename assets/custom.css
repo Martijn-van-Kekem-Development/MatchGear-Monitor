@@ -1,0 +1,13 @@
+:root {
+    --body-background-color: #1b1b1f;
+    --body-text-color: #f0ffff;
+    --card-background-color: rgb(182 210 255 / 9%);
+    --nav-background-color: #1b1b1f;
+    --nav-border-bottom-color: rgb(0 0 0 / 30%);
+    --nav-current-border-bottom-color: #4c90ff;
+    --card-border-color: transparent;
+}
+
+.logo {
+    font-size: 1.3rem;
+}
