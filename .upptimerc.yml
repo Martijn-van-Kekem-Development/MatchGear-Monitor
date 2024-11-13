@@ -5,6 +5,7 @@ repo: MatchGear-Monitor # The name of this repository
 workflowSchedule:
   responseTime: "0 * * * *"
   graphs: "5 * * * *"
+  summary: "5 * * * *"
 
 sites:
   - name: Production API
