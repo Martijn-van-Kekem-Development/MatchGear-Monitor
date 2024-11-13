@@ -22,19 +22,19 @@
     "url": "https://api-beta.matchgear.app/app-info",
     "icon": "https://icons.duckduckgo.com/ip3/api-beta.matchgear.app.ico",
     "slug": "beta-api",
-    "status": "down",
-    "uptime": "13.15%",
-    "uptimeDay": "13.15%",
-    "uptimeWeek": "13.15%",
-    "uptimeMonth": "13.15%",
-    "uptimeYear": "13.15%",
-    "time": 518,
-    "timeDay": 518,
-    "timeWeek": 518,
-    "timeMonth": 518,
-    "timeYear": 518,
+    "status": "up",
+    "uptime": "11.61%",
+    "uptimeDay": "11.61%",
+    "uptimeWeek": "11.61%",
+    "uptimeMonth": "11.61%",
+    "uptimeYear": "11.61%",
+    "time": 532,
+    "timeDay": 532,
+    "timeWeek": 532,
+    "timeMonth": 532,
+    "timeYear": 532,
     "dailyMinutesDown": {
-      "2024-11-13": 17
+      "2024-11-13": 20
     }
   },
   {
