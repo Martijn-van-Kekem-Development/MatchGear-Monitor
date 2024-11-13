@@ -34,4 +34,19 @@ a {
     text-decoration: none;
 }
 
-section
+nav {
+    padding: 1rem !important;
+}
+
+nav a.logo {
+    padding: 0 !important;
+}
+
+nav ul li {
+    padding: 0.5rem 1.5rem;
+}
+
+nav ul li a {
+    padding: 0.2rem 0;
+    font-weight: normal;
+}
