@@ -40,9 +40,9 @@
     "url": "https://www.matchgear.app/en/",
     "icon": "https://icons.duckduckgo.com/ip3/www.matchgear.app.ico",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,7 +51,9 @@
     "timeWeek": 833,
     "timeMonth": 817,
     "timeYear": 816,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-03": 0
+    }
   },
   {
     "name": "Documentation website",
