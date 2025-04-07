@@ -4,10 +4,10 @@
     "url": "https://api-prod.matchgear.app/app-info",
     "icon": "https://icons.duckduckgo.com/ip3/api-prod.matchgear.app.ico",
     "slug": "production-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 640,
@@ -15,17 +15,19 @@
     "timeWeek": 631,
     "timeMonth": 639,
     "timeYear": 640,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-07": 1
+    }
   },
   {
     "name": "Beta API",
     "url": "https://api-beta.matchgear.app/app-info",
     "icon": "https://icons.duckduckgo.com/ip3/api-beta.matchgear.app.ico",
     "slug": "beta-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 623,
@@ -33,16 +35,18 @@
     "timeWeek": 622,
     "timeMonth": 622,
     "timeYear": 623,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-07": 1
+    }
   },
   {
     "name": "Website",
     "url": "https://www.matchgear.app/en/",
     "icon": "https://icons.duckduckgo.com/ip3/www.matchgear.app.ico",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
@@ -52,6 +56,7 @@
     "timeMonth": 828,
     "timeYear": 831,
     "dailyMinutesDown": {
+      "2025-04-07": 0,
       "2025-01-28": 63,
       "2025-01-24": 37,
       "2025-01-14": 46,
