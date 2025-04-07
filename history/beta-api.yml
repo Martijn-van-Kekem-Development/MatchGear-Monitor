@@ -1,7 +1,7 @@
 url: https://api-beta.matchgear.app/app-info
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-04-07T20:43:42.719Z
+status: up
+code: 200
+responseTime: 727
+lastUpdated: 2025-04-07T20:49:25.278Z
 startTime: 2024-11-13T10:47:09.950Z
 generator: Upptime <https://github.com/upptime/upptime>
