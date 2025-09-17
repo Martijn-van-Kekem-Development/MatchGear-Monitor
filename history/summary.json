@@ -11,8 +11,8 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 641,
-    "timeDay": 666,
-    "timeWeek": 668,
+    "timeDay": 661,
+    "timeWeek": 667,
     "timeMonth": 658,
     "timeYear": 641,
     "dailyMinutesDown": {
@@ -31,8 +31,8 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 628,
-    "timeDay": 651,
-    "timeWeek": 640,
+    "timeDay": 648,
+    "timeWeek": 639,
     "timeMonth": 649,
     "timeYear": 628,
     "dailyMinutesDown": {
@@ -45,23 +45,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.matchgear.app.ico",
     "slug": "website",
     "status": "up",
-    "uptime": "99.95%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.95%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 839,
-    "timeDay": 858,
-    "timeWeek": 860,
+    "timeDay": 848,
+    "timeWeek": 859,
     "timeMonth": 870,
     "timeYear": 839,
-    "dailyMinutesDown": {
-      "2025-09-09": 20,
-      "2025-01-28": 63,
-      "2025-01-24": 37,
-      "2025-01-14": 46,
-      "2025-01-03": 36
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Documentation website",
@@ -75,8 +69,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 308,
-    "timeDay": 338,
-    "timeWeek": 324,
+    "timeDay": 340,
+    "timeWeek": 325,
     "timeMonth": 322,
     "timeYear": 308,
     "dailyMinutesDown": {}
