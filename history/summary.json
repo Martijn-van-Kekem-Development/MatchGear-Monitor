@@ -4,9 +4,9 @@
     "url": "https://api-prod.matchgear.app/app-info",
     "icon": "https://icons.duckduckgo.com/ip3/api-prod.matchgear.app.ico",
     "slug": "production-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "96.70%",
+    "uptimeDay": "96.69%",
     "uptimeWeek": "99.53%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.93%",
@@ -27,10 +27,10 @@
     "url": "https://api-beta.matchgear.app/app-info",
     "icon": "https://icons.duckduckgo.com/ip3/api-beta.matchgear.app.ico",
     "slug": "beta-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "96.73%",
-    "uptimeWeek": "99.53%",
+    "uptimeDay": "96.67%",
+    "uptimeWeek": "99.52%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.98%",
     "time": 636,
@@ -39,7 +39,7 @@
     "timeMonth": 624,
     "timeYear": 637,
     "dailyMinutesDown": {
-      "2026-04-15": 47,
+      "2026-04-15": 48,
       "2026-02-09": 48,
       "2025-09-09": 20
     }
@@ -50,22 +50,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.matchgear.app.ico",
     "slug": "website",
     "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "96.76%",
-    "uptimeWeek": "99.37%",
-    "uptimeMonth": "99.86%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 853,
     "timeDay": 900,
     "timeWeek": 877,
     "timeMonth": 853,
     "timeYear": 854,
-    "dailyMinutesDown": {
-      "2026-04-15": 47,
-      "2026-04-09": 17,
-      "2026-01-22": 17,
-      "2025-09-09": 20
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Documentation website",
