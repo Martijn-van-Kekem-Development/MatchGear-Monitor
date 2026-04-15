@@ -9,13 +9,13 @@ workflowSchedule:
 
 sites:
   - name: Production API
-    url: https://api-prod.matchgear.app/app-info
+    url: https://home.matchgear.app/api/app-info
     method: GET
     maxResponseTime: 2000
     expectedStatusCodes:
       - 200
   - name: Beta API
-    url: https://api-beta.matchgear.app/app-info
+    url: https://home-beta.matchgear.app/api/app-info
     method: GET
     maxResponseTime: 2000
     expectedStatusCodes:
