@@ -1,7 +1,7 @@
-url: https://home-beta.matchgear.app/api/app-info
+url: https://api-beta.matchgear.app/v2/app-info
 status: up
 code: 200
-responseTime: 481
-lastUpdated: 2026-05-14T08:50:07.136Z
+responseTime: 488
+lastUpdated: 2026-05-14T09:39:02.332Z
 startTime: 2024-11-13T10:47:09.950Z
 generator: Upptime <https://github.com/upptime/upptime>
