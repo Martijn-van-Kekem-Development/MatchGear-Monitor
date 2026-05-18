@@ -12,20 +12,24 @@ sites:
     url: https://api.matchgear.app/v2/app-info
     method: GET
     maxResponseTime: 2000
+    showAverageResponseTime: false
     expectedStatusCodes:
       - 200
   - name: Beta API
     url: https://api-beta.matchgear.app/v2/app-info
     method: GET
     maxResponseTime: 2000
+    showAverageResponseTime: false
     expectedStatusCodes:
       - 200
   - name: Website
     url: https://www.matchgear.app/en/
     maxResponseTime: 5000
+    showAverageResponseTime: false
   - name: Documentation website
     url: https://docs.matchgear.app/en/
     maxResponseTime: 5000
+    showAverageResponseTime: false
 
 assignees:
   - martijnvankekem
