@@ -49,16 +49,16 @@
     "url": "https://www.matchgear.app/en/",
     "icon": "https://icons.duckduckgo.com/ip3/www.matchgear.app.ico",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "96.68%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "62.67%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "62.71%",
     "uptimeYear": "94.96%",
     "time": 909,
-    "timeDay": 2866,
-    "timeWeek": 2753,
-    "timeMonth": 1578,
+    "timeDay": 2780,
+    "timeWeek": 2741,
+    "timeMonth": 1577,
     "timeYear": 911,
     "dailyMinutesDown": {
       "2025-09-09": 20,
@@ -84,7 +84,8 @@
       "2026-04-20": 1440,
       "2026-04-19": 1440,
       "2026-04-18": 934,
-      "2026-05-12": 19
+      "2026-05-12": 19,
+      "2026-05-25": 1
     }
   },
   {
